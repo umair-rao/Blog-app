@@ -130,8 +130,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/MAleemH/Blog-App.git
-  cd Blog-App
+  git clone https://github.com/umair-rao/Blog-app.git
+  cd Blog-app
 ```
 
 ### Install
